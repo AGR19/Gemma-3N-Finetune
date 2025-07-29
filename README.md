@@ -3,7 +3,7 @@ This project demonstrates how to fine-tune the `unsloth/gemma-3n-E2B-unsloth-bnb
 
 ## Why build this?
 
-This project showcases the power of fine-tuning large language models on specific datasets to generate text in a particular style. By fine-tuning the Gemma-3N model on Donald Trump's interview transcripts, we can create a model that captures his unique linguistic patterns, vocabulary, and tone. This can be a fun and educational project for anyone interested in NLP, large language models, and creative text generation.
+This project showcases the power of fine-tuning large language models on specific datasets to generate text in a particular style.
 
 ## Features
 
