@@ -1,5 +1,5 @@
 # Fine-tuning Gemma-3N 
-This project demonstrates how to fine-tune the `unsloth/gemma-3n-E2B-unsloth-bnb-4bit` model on a dataset of Donald Trump interviews. The goal is to create a model that can generate text in the style of Donald Trump.
+This project demonstrates how to fine-tune the `unsloth/gemma-3n-E2B-unsloth-bnb-4bit` model
 
 ## Why build this?
 
